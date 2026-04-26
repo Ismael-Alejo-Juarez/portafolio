@@ -1,0 +1,4 @@
+{"timestamp":"00:00:01.327","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:05.437","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:07.613","source":"Server","level":"WARN","message":"⚠ ./\nFailed to find font override values for font `Stack Sans Headline`\nSkipping generating a fallback font.\n\n"}
+{"timestamp":"00:00:08.875","source":"Server","level":"WARN","message":"⚠ ./\nFailed to find font override values for font `Stack Sans Headline`\nSkipping generating a fallback font.\n\n"}

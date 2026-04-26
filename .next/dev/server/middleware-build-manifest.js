@@ -1,0 +1,45 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/": [
+      "static/chunks/[root-of-the-server]__0ua7l9g._.js",
+      "static/chunks/node_modules_next_dist_compiled_0o6l_m6._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_0neta6h._.js",
+      "static/chunks/node_modules_next_dist_client_00_u_l7._.js",
+      "static/chunks/node_modules_next_dist_0k8zr~w._.js",
+      "static/chunks/node_modules_next_link_05n85hx.js",
+      "static/chunks/node_modules_react-dom_0bruynb._.js",
+      "static/chunks/node_modules_react-icons_fa_index_mjs_0xad473._.js",
+      "static/chunks/node_modules_react-icons_si_index_mjs_0m980.7._.js",
+      "static/chunks/node_modules_react-icons_vsc_index_mjs_0p6vc0z._.js",
+      "static/chunks/node_modules_react-icons_gr_index_mjs_0w4-yu3._.js",
+      "static/chunks/node_modules_react-icons_bi_index_mjs_02ua.cp._.js",
+      "static/chunks/node_modules_react-icons_di_index_mjs_04fx9rq._.js",
+      "static/chunks/node_modules_react-icons_fa6_index_mjs_0-3uycg._.js",
+      "static/chunks/node_modules_react-icons_lib_0lhv14w._.js",
+      "static/chunks/node_modules_11l9xip._.js",
+      "static/chunks/[root-of-the-server]__05rcx74._.css",
+      "static/chunks/pages_index_07xvfw~._.js",
+      "static/chunks/turbopack-pages_index_01-n1.5._.js"
+    ],
+    "/_app": [
+      "static/chunks/node_modules_next_dist_compiled_0o6l_m6._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_0~pg0mt._.js",
+      "static/chunks/node_modules_next_dist_client_0pe1dg-._.js",
+      "static/chunks/node_modules_next_dist_0k8zr~w._.js",
+      "static/chunks/node_modules_react-dom_0bruynb._.js",
+      "static/chunks/node_modules_11l9xip._.js",
+      "static/chunks/[root-of-the-server]__00dsfaf._.js",
+      "static/chunks/styles_globals_0-xc3nc.css",
+      "static/chunks/pages__app_07xvfw~._.js",
+      "static/chunks/turbopack-pages__app_0hmw_cf._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": []
+};

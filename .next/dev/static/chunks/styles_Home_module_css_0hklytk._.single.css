@@ -1,0 +1,253 @@
+/* [project]/styles/Home.module.css [client] (css) */
+.Home-module__g21JLG__border1px {
+  border: 1px solid #fff;
+}
+
+.Home-module__g21JLG__flex {
+  display: flex;
+}
+
+.Home-module__g21JLG__flexColumn {
+  flex-direction: column;
+  display: flex;
+}
+
+.Home-module__g21JLG__flexRow {
+  flex-direction: row;
+  display: flex;
+}
+
+.Home-module__g21JLG__grid {
+  display: grid;
+}
+
+.Home-module__g21JLG__fontcolor {
+  color: #b9b9b9;
+}
+
+.Home-module__g21JLG__font32px {
+  font-size: 32px;
+}
+
+.Home-module__g21JLG__font28px {
+  font-size: 28px;
+}
+
+.Home-module__g21JLG__font24px {
+  font-size: 24px;
+}
+
+.Home-module__g21JLG__font18px {
+  font-size: 18px;
+}
+
+.Home-module__g21JLG__font16px {
+  font-size: 16px;
+}
+
+.Home-module__g21JLG__centerContent {
+  text-align: center;
+  place-content: center;
+}
+
+.Home-module__g21JLG__centerItems {
+  text-align: center;
+  place-items: center;
+}
+
+.Home-module__g21JLG__centerSelf {
+  place-self: center;
+}
+
+.Home-module__g21JLG__noMargin {
+  margin: 0;
+}
+
+.Home-module__g21JLG__link {
+  text-decoration: none;
+}
+
+.Home-module__g21JLG__header, .Home-module__g21JLG__nav {
+  background-color: #020202;
+}
+
+.Home-module__g21JLG__nav {
+  z-index: 100;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+}
+
+.Home-module__g21JLG__main {
+  margin: 0 50px;
+}
+
+.Home-module__g21JLG__section {
+  scroll-margin-top: 70px;
+}
+
+.Home-module__g21JLG__name {
+  margin: 0;
+}
+
+.Home-module__g21JLG__jobTitle {
+  color: #3f3f3f;
+  margin: 15px;
+}
+
+.Home-module__g21JLG__imgMe {
+  border: 1px solid #1f1f1f;
+  width: 250px;
+  height: 250px;
+}
+
+.Home-module__g21JLG__description {
+  text-align: justify;
+  line-height: 25px;
+}
+
+.Home-module__g21JLG__social {
+  gap: 20px;
+  margin: 20px 0 10px;
+}
+
+.Home-module__g21JLG__education {
+  grid-template-columns: 1fr auto;
+  align-items: center;
+}
+
+.Home-module__g21JLG__imgUnisierra {
+  width: 80px;
+  height: 80px;
+}
+
+.Home-module__g21JLG__imgMe, .Home-module__g21JLG__imgUnisierra {
+  border-radius: 50%;
+}
+
+.Home-module__g21JLG__languages {
+  line-height: 35px;
+}
+
+.Home-module__g21JLG__stack {
+  grid-template-columns: auto auto auto auto auto auto;
+  gap: 50px 100px;
+  padding: 50px 0;
+}
+
+.Home-module__g21JLG__icon {
+  width: 32px;
+  height: 32px;
+}
+
+.Home-module__g21JLG__iconT {
+  width: 45px;
+  height: 45px;
+}
+
+.Home-module__g21JLG__icon, .Home-module__g21JLG__iconT {
+  color: #b9b9b9;
+}
+
+.Home-module__g21JLG__navDivSections {
+  justify-content: right;
+  gap: 20px;
+}
+
+.Home-module__g21JLG__proyect, .Home-module__g21JLG__actionsProyect {
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+}
+
+.Home-module__g21JLG__proyect {
+  text-align: justify;
+}
+
+.Home-module__g21JLG__proyect img {
+  opacity: .5;
+  border-radius: 20px;
+  width: 100%;
+  height: 100%;
+  transition: all .3s;
+}
+
+.Home-module__g21JLG__separator {
+  color: #0f0f0f;
+  margin: 50px 0;
+}
+
+.Home-module__g21JLG__proyect:hover img {
+  opacity: 1;
+  transition: all .3s;
+}
+
+.Home-module__g21JLG__action, .Home-module__g21JLG__input {
+  color: #b9b9b9;
+  background-color: #050505;
+  border: 1px solid #3f3f3f;
+  border-radius: 6px;
+  padding: 7px 20px;
+}
+
+.Home-module__g21JLG__options {
+  gap: 20px;
+  margin: 40px 0;
+}
+
+.Home-module__g21JLG__preview {
+  border: 1px solid #1f1f1f;
+  width: 150px;
+  transition: all .3s;
+}
+
+.Home-module__g21JLG__spanView, .Home-module__g21JLG__action, .Home-module__g21JLG__form {
+  gap: 10px;
+}
+
+.Home-module__g21JLG__input {
+  resize: none;
+  width: 300px;
+  padding: 10px 20px;
+}
+
+.Home-module__g21JLG__textarea {
+  height: 300px;
+}
+
+.Home-module__g21JLG__footer {
+  margin: 50px 0;
+}
+
+.Home-module__g21JLG__action:hover {
+  cursor: pointer;
+  background-color: #090909;
+}
+
+.Home-module__g21JLG__link:hover {
+  color: #fff;
+}
+
+.Home-module__g21JLG__input:focus {
+  border: 1px solid #616161;
+  outline: none;
+  transition: all .3s;
+}
+
+.Home-module__g21JLG__preview:hover {
+  cursor: pointer;
+  transition: all .3s;
+  transform: scale(1.02);
+}
+
+.Home-module__g21JLG__none {
+  display: none;
+}
+
+.Home-module__g21JLG__block {
+  display: block;
+}
+
+/*# sourceMappingURL=styles_Home_module_css_0hklytk._.single.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///home/lnx-alejo/Documents/Personal/portafolio/styles/globals.css"],"sourcesContent":["html{\n  scroll-behavior: smooth;\n}\n\nbody {\n  color: #B9B9B9;\n  background-color: #090909;\n\n  margin: 0;\n  min-height: 100vh;\n}"],"names":[],"mappings":"AAAA;;;;AAIA"}}]
+}
