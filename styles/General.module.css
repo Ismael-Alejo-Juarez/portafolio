@@ -1,0 +1,76 @@
+/* DISEÑOS GENERALES */
+.border1px {
+  border: 1px solid white;
+}
+
+.flex {
+  display: flex;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.grid {
+  display: grid;
+}
+
+.fontcolor {
+  color: #B9B9B9;
+}
+
+.font32px {
+  font-size: 32px;
+  font-size: 2rem;
+}
+
+.font28px {
+  font-size: 28px;
+  font-size: 1.75rem;
+}
+
+.font24px {
+  font-size: 24px;
+  font-size: 1.5rem;
+}
+
+.font18px {
+  font-size: 18px;
+  font-size: 1.125rem;
+}
+
+.font16px {
+  font-size: 16px;
+  font-size: 1rem;
+}
+
+.centerContent {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.centerItems {
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}
+
+.centerSelf {
+  justify-self: center;
+  align-self: center;
+}
+
+.noMargin {
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+}
